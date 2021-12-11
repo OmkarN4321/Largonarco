@@ -1,6 +1,8 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=largonarco&show_icons=true"/>
+<div style="display:flex; flex-direction:row;">
+<img align="center" style="flex:1" src="https://github-readme-stats.vercel.app/api?username=largonarco&show_icons=true"/>
+<img align="center" style="flex:1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=largonarco&layout=compact"/>
+</div>
 
 
-[![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=largonarco&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=largonarco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
