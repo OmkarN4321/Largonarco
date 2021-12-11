@@ -5,7 +5,8 @@
    <p>I would love to collaborate on full stack projects 👯</p>
    <p>React me at **snarayankars62@gmail.com** 📫</p>
 </div>
-
+<br />
+<br />
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=largonarco&show_icons=true&theme=midnight-purple" alt="Omkar's stats"/>
