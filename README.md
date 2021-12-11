@@ -3,7 +3,7 @@
    <p>I am an aspiring full stack web developer 💻</p>
    <p>I am curently working on an Anime streaming and discovery web app</p>
    <p>I would love to collaborate on full stack projects 👯</p>
-   <p>React me at **snarayankars62@gmail.com** 📫</p>
+   <p>Reach me at snarayankars62@gmail.com or on twitter @OmkarNarayank19📫</p>
 </div>
 <br />
 <br />
