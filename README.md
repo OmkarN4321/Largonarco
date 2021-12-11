@@ -4,9 +4,9 @@
 </div>
 
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=largonarco&layout=compact" alt="Omkar stats"/>
-</p>
+</div>
 
 
 
