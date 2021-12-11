@@ -14,14 +14,13 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=largonarco&layout=compact" alt="Omkar stats"/>
-</div>
-
-<br />
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=largonarco" alt="Omkar's Wakatime stats"/>
 </div>
+<br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=largonarco&layout=compact" alt="Omkar stats"/>
+</div>
 
 
 
