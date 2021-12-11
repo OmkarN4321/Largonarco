@@ -1,9 +1,9 @@
 <div align="center">
-   - Hi, I am Omkar👋
-   - I am an aspiring full stack web developer 💻
-   - I am curently working on an Anime streaming and discovery web app
-   - I would love to collaborate on full stack projects 👯
-   - React me at **snarayankars62@gmail.com** 📫
+   <p>Hi, I am Omkar👋</p>
+   <p>I am an aspiring full stack web developer 💻</p>
+   <p>I am curently working on an Anime streaming and discovery web app</p>
+   <p>I would love to collaborate on full stack projects 👯</p>
+   <p>React me at **snarayankars62@gmail.com** 📫</p>
 </div>
 
 
