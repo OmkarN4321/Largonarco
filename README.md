@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=largonarco&layout=compact" alt="Omkar stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=largonarco&layout=compact&theme=midnight-purple" alt="Omkar stats"/>
 </div>
 
 
