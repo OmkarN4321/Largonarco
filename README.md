@@ -14,7 +14,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=largonarco" alt="Omkar's Wakatime stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=largonarco&theme=midnight-purple" alt="Omkar's Wakatime stats"/>
 </div>
 <br />
 
