@@ -3,8 +3,8 @@
    <p>I am an aspiring full stack web developer 💻</p>
    <p>I am about to start the work on my WebRTC app</p>
    <p>I would love to collaborate on any full stack projects 👯</p>
-   <p>Reach me at <b>snarayankars62@gmail.com</b></p>
-   <p>Be updated with my #100DaysOfCode journey on twitter <b>@OmkarNarayank19📫</b></p>
+   <p>Reach me at <b>snarayankars62@gmail.com</b>📫</p>
+   <p>Be updated with my #100DaysOfCode journey on twitter <b>@OmkarNarayank19</b></p>
 </div>
 <br />
 <br />
