@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/largonarco/count.svg)
+    <img src="https://profile-counter.glitch.me/largonarco/count.svg" alt="Visitors"/>
 </div>
 
 
