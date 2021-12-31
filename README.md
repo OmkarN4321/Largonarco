@@ -9,7 +9,10 @@
 <br />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/largonarco/count.svg)
+<div align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/largonarco/count.svg)
+</div>
+
 
 
 
