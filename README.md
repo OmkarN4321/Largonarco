@@ -10,7 +10,9 @@
 <br />
 
 <div align="center">
+   <p>Visitors</p>
     <img src="https://profile-counter.glitch.me/largonarco/count.svg" alt="Visitors"/>
+   <br />
 </div>
 
 
