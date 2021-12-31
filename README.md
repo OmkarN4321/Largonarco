@@ -9,15 +9,6 @@
 <br />
 <br />
 
-<div align="center">
-   <p>Visitors</p>
-    <img src="https://profile-counter.glitch.me/largonarco/count.svg" alt="Visitors"/>
-   <br />
-</div>
-
-
-
-
 <!--  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=largonarco&theme=midnight-purple" alt="Omkar's Wakatime stats"/>
 </div>
