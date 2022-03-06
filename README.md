@@ -24,8 +24,11 @@
    <img src="https://github-readme-stats.vercel.app/api?username=largonarco&show_icons=true&theme=midnight-purple&hide_rank=true" alt="Omkar's stats"/>
 </div>
 
+<div align="center">
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=largonarco)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+[![wakatime](https://wakatime.com/badge/user/6d189b68-811f-4ab1-98b7-2182778e44c8.svg)](https://wakatime.com/@6d189b68-811f-4ab1-98b7-2182778e44c8)
 
 
 
