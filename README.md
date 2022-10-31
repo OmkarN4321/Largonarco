@@ -1,9 +1,6 @@
 <div align="center">
-   <p>Hi, I am Omkar👋</p>
-   <p>I am an aspiring full stack web developer 💻</p>
-   <p>I would love to collaborate on any full stack projects 👯</p>
-   
-   <p>Be updated with my #100DaysOfCode journey on twitter <b>@OmkarNarayank19</b></p>
+   <p>Hey, I am Omkar👋</p>
+   <p>I would love to collaborate on fun projects 👯</p>
    <p>Reach me at <b>snarayankars62@gmail.com</b>📫</p>
 </div>
 <br />
