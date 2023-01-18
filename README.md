@@ -20,13 +20,5 @@
    <img src="https://github-readme-stats.vercel.app/api?username=largonarco&show_icons=true&theme=midnight-purple&hide_rank=true" alt="Omkar's stats"/>
 </div>
 
-
-
-
-
-
-
-
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
