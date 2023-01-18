@@ -1,5 +1,4 @@
 <h1>Hey, I am Omkar👋</h1>
-<hr />
 
 <p>I would love to collaborate on fun projects 👯</p>
 <p>Reach me at <b>snarayankars62@gmail.com</b>📫</p>
