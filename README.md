@@ -1,6 +1,6 @@
 # Hey, there! 👋
 
-I am Omkar Narayankar, an IT engineer trying to make life easier with tech.
+I am Omkar Narayankar, a software engineer trying to make life easier with tech.
 
 My creations include [Anima](https://animaa.vercel.app/) and [Vizzy](https://vizzyy.vercel.app).
 
