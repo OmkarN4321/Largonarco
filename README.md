@@ -21,18 +21,4 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-```text
-From: 10 December 2021 - To: 17 January 2023
-
-Total Time: 625 hrs 9 mins
-
-JavaScript   423 hrs 24 mins >>>>>>>>>>>>>>>>>--------   67.73 %
-Svelte       115 hrs 4 mins  >>>>>--------------------   18.41 %
-MDX          16 hrs 37 mins  >------------------------   02.66 %
-CSS          15 hrs 40 mins  >------------------------   02.51 %
-TypeScript   13 hrs 56 mins  >------------------------   02.23 %
-JSON         11 hrs 35 mins  -------------------------   01.85 %
-```
-
 <!--END_SECTION:waka-->
